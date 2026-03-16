@@ -1,4 +1,4 @@
-# Database Normalization Assignment
+# Ly thuyet session 6
 
 ## Part 1: Normalization
 
